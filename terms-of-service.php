@@ -133,8 +133,9 @@
             <h2>11. Kontak</h2>
             <p>Jika Anda memiliki pertanyaan tentang Terms of Service ini, silakan hubungi kami melalui:</p>
             <ul>
-                <li>Email: support@pelacak-tiktok.com</li>
-                <li>Telepon: +62-xxx-xxxx-xxxx</li>
+                <li><strong>Email:</strong> zakyjamaluddin1812@gmail.com</li>
+                <li><strong>Telepon:</strong> 0857-4877-6014</li>
+                <li><strong>Alamat:</strong> Mayangrejo, Kalitidu, Bojonegoro, Jawa Timur, Indonesia</li>
             </ul>
 
             <div class="back-link">

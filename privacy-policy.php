@@ -178,9 +178,9 @@
             <h2>11. Kontak</h2>
             <p>Jika Anda memiliki pertanyaan tentang kebijakan privasi ini atau ingin menggunakan hak-hak Anda, silakan hubungi kami:</p>
             <ul>
-                <li><strong>Email:</strong> privacy@pelacak-tiktok.com</li>
-                <li><strong>Telepon:</strong> +62-xxx-xxxx-xxxx</li>
-                <li><strong>Alamat:</strong> [Alamat Lengkap Perusahaan]</li>
+                <li><strong>Email:</strong> zakyjamaluddin1812@gmail.com</li>
+                <li><strong>Telepon:</strong> 0857-4877-6014</li>
+                <li><strong>Alamat:</strong> Mayangrejo, Kalitidu, Bojonegoro, Jawa Timur, Indonesia</li>
             </ul>
 
             <div class="highlight-box">
