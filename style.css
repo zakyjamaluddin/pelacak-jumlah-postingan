@@ -181,6 +181,60 @@ body {
     color: #333;
 }
 
+/* Chart Section */
+.chart-section {
+    background: white;
+    border-radius: 15px;
+    padding: 30px;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.chart-section h2 {
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+}
+
+.chart-container {
+    position: relative;
+    height: 400px;
+    margin-bottom: 20px;
+    background: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.chart-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.chart-stat-item {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    border-left: 4px solid #667eea;
+}
+
+.chart-stat-item .stat-label {
+    display: block;
+    color: #666;
+    font-size: 0.9em;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+.chart-stat-item .stat-value {
+    display: block;
+    color: #333;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
 /* Posts Section */
 .posts-section {
     background: white;
@@ -295,6 +349,19 @@ body {
     
     .posts-table {
         font-size: 0.9em;
+    }
+    
+    .chart-container {
+        height: 300px;
+        padding: 15px;
+    }
+    
+    .chart-stats {
+        grid-template-columns: 1fr;
+    }
+    
+    .chart-stat-item {
+        padding: 12px;
     }
 }
 
